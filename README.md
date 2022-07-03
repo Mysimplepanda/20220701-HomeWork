@@ -87,4 +87,4 @@ pygame.display.set_caption("Feed The Angry Bird! ")
   * [Leshy SFMaker: ](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效, 也可以簡單自己製作音效
   * [Video Games Music Free Download: ](https://www.chosic.com/free-music/games/) 可以下再不會被告的遊戲背景音樂
   
-<img src="https://raw.githubusercontent.com/Mysimplepanda/2022-07-01-Homework/main/fta_hp.png" width="400" height="300" alt="2.py程式截圖"><br> 
+<img src="https://raw.githubusercontent.com/Mysimplepanda/20220701-HomeWork/main/fta_hp.png" width="400" height="300" alt="2.py程式截圖"><br> 
