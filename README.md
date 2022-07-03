@@ -27,6 +27,7 @@
 | File | introduction |
 |:-----:|:----------:|
 | fly.png | The main character of this game |
+| shit.png | If the fly touch it, +1 point (same as coin) |
 | AttackGraffiti.ttf | The font of this game |
 | Feed_The_AngryBird_HomwWork.py | The code :) |
 | Qho.mp3 | background music |
